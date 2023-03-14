@@ -1,62 +1,76 @@
-# 02-ufo
+![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
 
 
-website design project
+# 03-astronautas
 
-🌟 About
+_website design project_
 
-This project is for educational porpuses only.
+<br>
+
+## 🌟 About
+
+This project is for educational porpuses only. 
 
 Site published at: https://janusonyte.github.io/02-ufo/
 
-Design: Astronautas
-🎯 Project features/goals
+Design: [Astronautas](https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space?mode=media)
 
-    Github pages
-    Markdown
-    Inline styling
-    
+## 🎯 Project features/goals
 
-🧰 Getting Started
-💻 Prerequisites
+-   Github pages
+-   [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-   CSS flex
 
-Node.js - download and install
+## 🧰 Getting Started
 
+### 💻 Prerequisites
+
+Node.js - _download and install_
+
+```
 https://nodejs.org
+```
 
-Git - download and install
+Git - _download and install_
 
+```
 https://git-scm.com
+```
 
-🏃 Run locally
+### 🏃 Run locally
 
 Would like to run this project locally? Open terminal and follow these steps:
 
-    Clone the repo
-
+1. Clone the repo
+    ```sh
     git clone https://github.com/janusonyte/02-ufo.git
-
-    Install NPM packages
-
+    ```
+2. Install NPM packages
+    ```sh
     npm i
-
+    ```
     or
-
+    ```sh
     npm install
-
-    Run the server
-
+    ```
+3. Run the server
+    ```sh
     npm run dev
+    ```
 
-🧪 Running tests
+### 🧪 Running tests
 
 There is no tests for this project.
-🧚🏻‍♀️ Authors
 
-Gabriele: Github
-⚠️ License
+## 🧚🏻‍♀️ Authors
+
+Gabriele: [Github](https://github.com/janusonyte)
+
+## ⚠️ License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
-🔗 Other resources
+
+## 🔗 Other resources
 
 No resources.
