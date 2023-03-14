@@ -2,7 +2,7 @@
 ![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
 
 
-# 03-astronautas
+# 02-ufo
 
 _website design project_
 
@@ -20,7 +20,7 @@ Design: [Astronautas](https://dribbble.com/shots/5964475/attachments/5964475-404
 
 -   Github pages
 -   [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--   CSS flex
+-   Inline styling
 
 ## 🧰 Getting Started
 
