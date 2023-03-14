@@ -13,7 +13,7 @@ Design: Astronautas
 🎯 Project features/goals
 
     Github pages
-    markdown
+    Markdown
     Inline styling
     
 
